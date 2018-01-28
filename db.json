@@ -1,7 +1,7 @@
 {
-  "profiles": [
-    { "id": 1, "name": "john", "age": 21 },
-    { "id": 2, "name": "judy", "age": 31 },
-    { "id": 3, "name": "jack", "age": 41 }
+  "feedback": [
+    {"components" : "option1", "desired_timeline": "11/11/79", "name":"Abk", "email":"abk@gmail.com", "phone": 9979797979, "ISPW_reprensative": "ispwuser@in.ibm.com", "summery": "this is ispw website", "description": "this is ispw website" },
+    
+    {"components" : "option1", "desired_timeline": "11/11/79", "name":"Abk", "email":"abk@gmail.com", "phone": 9979797979, "ISPW_reprensative": "ispwuser@in.ibm.com", "summery": "this is ispw website", "description": "this is ispw website" },
   ]
 }
