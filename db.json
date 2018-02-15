@@ -1,7 +1,25 @@
-{
-  "feedback": [
-    {"components" : "option1", "desired_timeline": "11/11/79", "name":"Abk", "email":"abk@gmail.com", "phone": 9979797979, "ISPW_reprensative": "ispwuser@in.ibm.com", "summery": "this is ispw website", "description": "this is ispw website" },
-    
-    {"components" : "option1", "desired_timeline": "11/11/79", "name":"Abk", "email":"abk@gmail.com", "phone": 9979797979, "ISPW_reprensative": "ispwuser@in.ibm.com", "summery": "this is ispw website", "description": "this is ispw website" }
-  ]
+
+{         
+"products": [
+           {
+           "productsId": 1,
+            "productName": "product1",
+            "code":"539",
+            "releaseDate": "11/7/11",
+            "price": 79,
+            "rating": 4.7,
+            "imageUrl":"http://via.placeholder.com/140x100",
+
+           }, 
+           
+           {
+            "productsId": 2,
+             "productName": "product2",
+             "code":"5395",
+             "releaseDate": "11/9/12",
+             "price": 70,
+             "rating": 4.9,
+             "imageUrl":"http://via.placeholder.com/140x100",
+            }
+          ]
 }
