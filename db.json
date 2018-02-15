@@ -8,8 +8,7 @@
             "releaseDate": "11/7/11",
             "price": 79,
             "rating": 4.7,
-            "imageUrl":"http://via.placeholder.com/140x100",
-
+            "imageUrl":"http://via.placeholder.com/140x100"
            }, 
            
            {
@@ -19,7 +18,7 @@
              "releaseDate": "11/9/12",
              "price": 70,
              "rating": 4.9,
-             "imageUrl":"http://via.placeholder.com/140x100",
+             "imageUrl":"http://via.placeholder.com/140x100"
             }
           ]
 }
