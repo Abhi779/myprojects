@@ -2,9 +2,9 @@
 {         
 "products": [
            {
-           productsId: 1,
-            productName: "product1",
-            code:"539",
+           "productsId": 1,
+            "productName": "product1",
+            "code":"539",
             "releaseDate": "11/7/11",
             "price": 79,
             "rating": 4.7,
