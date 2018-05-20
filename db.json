@@ -13,11 +13,9 @@
         "Diya Ganguly"
     ],
     "contributors":[
-        "pashrotr@in.ibm.com"
-    ],
+        "pashrotr@in.ibm.com" ],
     "adopters":[
-        "rdharkar @us.ibm.com"
-    ],
+        "rdharkar@us.ibm.com" ],
     "uid":"pas01",
     "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs ",
     "topAsset":"Y",
