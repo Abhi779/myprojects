@@ -1,4 +1,4 @@
-"automationDetails": [
+"automationDetails" : [
 {
 
     "serviceLine":{
@@ -15,11 +15,13 @@
     "contributors":[
         "pashrotr@in.ibm.com"
     ],
-    
+    "adopters":[
+        "rdharkar @us.ibm.com"
+    ],
     "uid":"pas01",
     "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs ",
     "topAsset":"Y",
-    "assetDetail":"Toolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT \r\n---------------------------------\r\nMulti-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster \r\nCheck User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups \r\nCheck Database consistency \r\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical Operational Manual \r\nExport User accounts \r\nCollect databases from multiple servers \r\nCapacity and Performance Services \r\nCheck database indexes \r\nMissing index report \r\nDeadlock report \r \nCheck SQL server buffer pool \r\nCheck SQL server memory objects \r\nCheck Waiting tasks \r\nCheck Database I/O parameters \r\nCheck SQL server sessions \r\nCheck Database connections\r\n",
+    "assetDetail":"\r\n\r\nToolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT \r\n---------------------------------\r\nMulti-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster \r\nCheck User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups \r\nCheck Database consistency \r\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical Operational Manual \r\nExport User accounts \r\nCollect databases from multiple servers \r\nCapacity and Performance Services \r\nCheck database indexes \r\nMissing index report \r\nDeadlock report \r \nCheck SQL server buffer pool \r\nCheck SQL server memory objects \r\nCheck Waiting tasks \r\nCheck Database I/O parameters \r\nCheck SQL server sessions \r\nCheck Database connections\r\n",
     "technology":"",
     "url":"https://github.ibm.com/GTS-socialcoding/mssql_dba_automation",
     "wikiLink":"https://w3-connections .ibm.com/blogs/AutomationChampionship/entry/MSSQL_Automation_SingleTool_which_perform_all_SQL_DBAs_tasks_with_least_manual_Intervention ?lang=en_us",
@@ -32,73 +34,4 @@
     ]
 
 },
-    "serviceLine":{
-        "id":1,
-        "name":"Compute Services"
-    },
-    "serviceLineComponent":{
-        "id":3,
-        "name":"Distributed - Unix/Linux"
-    },
-    "author":[
-        "Mahvish Ayesha"
-    ],
-    "contributors":[
-        "mahvishayesha@in.ibm.com"
-    ],
-    "adopters":[
-        "veeresh.bushetti@in.ibm.com"
-    ],
-    "uid":"mah03",
-    "assetTitle":"Mksysb Backup Script",
-    "topAsset":"Y",
-    "assetDetail":"\r\n \r\nAutomate synchronisation of OS & Application data backup and restore to minimise restoration of servers in case of crashes.\r\n\r\nFeatures: \r\n1) Creates installable mksysb file which is helpful to restore entire OS.\r\n2) It maintains 3-7 log files, which is required during audits.\r\n3) If backup fails as a secondary control, with the help of this script , an SCCD ticket will be auto created to respective squads.\r\n4) Maintains 3 files, 2 in TSM server and recent one in local file system.\r\n5) Additionally mail notifications will be sent to the respective focal.\r\n6) The script is AIX version independent and requires L2 skill level.\r\n7) Script is both forward and backward compatible, no dependency over OS version.\r\n",
-    "technology":"",
-    "url":"https:/ /w3-connections.ibm.com/blogs/AutomationChampionship/entry/Mksysb_Backup_Script?lang=en_us",
-    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/Mksysb_Backup_Script?lang=en_us",
-    "benefits":"1) Multiple iteration of back up logs will be available at any given point of time.\r\n2 ) Tivoli monitoring is in place for any back up miss.",
-    "preRequisites":"None",
-    "supportedVersions":"Only AIX servers, ensuring sufficient space for backup on any targeted file system",
-    "accountContributed":[
-        {
-        }
-    ]
-
-},
-
-    "serviceLine":{
-        "id":1,
-        "name":"Compute Services"
-    },
-    "serviceLineComponent":{
-        "id":3,
-        "name":"Distributed - Unix/Linux"
-    },
-    "author":[
-        "DEBASISHA PADHI"
-    ],
-    "contributors":[
-        "debasisha.padhi@in.ibm.com"
-    ],
-    "adopters":[
-        "abhisheksingh79@in.ibm.com",
-        "kalyanig@us.ibm.com"
-    ],
-    "uid":"deb25",
-    "assetTitle":"Admin Tool - Linux",
-    "topAsset":"Y",
-    "assetDetail":"\r\n\r\nMenu driven tool to Automate LINUX Activities to help System Administrators perform day to day Activities, eliminating human errors and saving time.\r\n\r\n",
-    "technology":"",
-    "url":"https://github.ibm.com/GTS-socialcoding/linux_admin_tool",
-    "wikiLink":"https://w3-connections.ibm.com /blogs/AutomationChampionship/entry/Admin_Tool_Linux?lang=en_us",
-    "benefits":"None",
-    "preRequisites":"None",
-    "supportedVersions":"Supported Versions\r\nSpace requirement: 250 MB of free space in any vg .\"\r\n \"Benefit: Time saving, reduction in human errors, standardizing the delivery and quality improvement. \r\nIt will help in resolving issues much easier and quicker. This may even reduce the human errors. ",
-    "accountContributed":[
-        {
-        }
-    ]
-
-}
-
 ]
