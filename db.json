@@ -1,435 +1,245 @@
-"automationDetails" = [
-   {
-      "serviceLine":{ },
-      "serviceLineComponent":{ },
-      "author":[ ],
-      "contributors":[ ],
-      "adopters":[ ],
-      "uid":"deb25",
-      "assetTitle":"Admin Tool - Linux",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nMenu driven
- tool to Automate LINUX Activities to help System Administrators perform day to day Activities, eliminating
- human errors and saving time.\r\n\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding
-/linux_admin_tool",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/Admin_Tool_Linux
-?lang=en_us",
-      "benefits":"None",
-      "preRequisites":"None",
-      "supportedVersions":"Supported Versions\r\nSpace
- requirement: 250 MB of free space in any vg .\"\r\n\"Benefit:
-Time saving, reduction in human errors, standardizing the delivery and quality improvement. \r\nIt will
- help in resolving issues much easier and quicker. This may even reduce the human errors. ",
-      "accountContributed":[ ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":1,
-         "name":"Distributed
- Database"
-      },
-      "author":[
-         "Pallavi Shrotri"
-      ],
-      "contributors":[
-         "pashrotr@in.ibm.com"
-      ],
-      "adopters":[
+[
+{
 
-      ],
-      "uid":"pas01",
-      "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs ",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nToolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility
- of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT \r\n---------------------------------
-\r\nMulti-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license
- information \r\nAvailability Services \r\nCheck SQL Cluster \r\nCheck User accounts \r\nCheck Orphan
- Users \r\nBackup and Recovery services \r\nCheck Database backups\r\nCheck Database consistency  \r
-\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical Operational Manual \r\nExport User
- accounts \r\nCollect databases from multiple servers \r\nCapacity and Performance Services \r\nCheck
- database indexes \r\nMissing index report \r\nDeadlock report \r\nCheck SQL server buffer pool \r\nCheck
- SQL server memory objects \r\nCheck Waiting tasks \r\nCheck Database I/O parameters \r\nCheck SQL server
- sessions \r\nCheck Database connections\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding
-/mssql_dba_automation",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry
-/MSSQL_Automation_SingleTool_which_perform_all_SQL_DBAs_tasks_with_least_manual_Intervention?lang=en_us",
-      "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
-      "preRequisites":"Jump server
-/test Server where the tool kit can be placed for use",
-      "supportedVersions":"SQL 2008 and higher versions
- - fully compatible\r\nSQL 2000 and 2005 (EOL versions) - Partially compatible, does not support all
- features\r\n.Net 3.0 or higher version\r\nx86 or x64 Windows platforms
-Local administrative privilege",
-      "accountContributed":[
-         {
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":1,
+        "name":"Distributed Database"
+    },
+    "author":[
+        "Diya Ganguly"
+    ],
+    "contributors":[
+        "pashrotr@in.ibm.com"
+    ],
+    "adopters":[
+        "rdharkar @us.ibm.com"
+    ],
+    "uid":"pas01",
+    "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs ",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nToolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT \r\n---------------------------------\r\nMulti-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster \r\nCheck User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups \r\nCheck Database consistency \r\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical Operational Manual \r\nExport User accounts \r\nCollect databases from multiple servers \r\nCapacity and Performance Services \r\nCheck database indexes \r\nMissing index report \r\nDeadlock report \r \nCheck SQL server buffer pool \r\nCheck SQL server memory objects \r\nCheck Waiting tasks \r\nCheck Database I/O parameters \r\nCheck SQL server sessions \r\nCheck Database connections\r\n",
+    "technology":"",
+    "url":"https://github.ibm.com/GTS-socialcoding/mssql_dba_automation",
+    "wikiLink":"https://w3-connections .ibm.com/blogs/AutomationChampionship/entry/MSSQL_Automation_SingleTool_which_perform_all_SQL_DBAs_tasks_with_least_manual_Intervention ?lang=en_us",
+    "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
+    "preRequisites":"Jump server/test Server where the tool kit can be placed for use",
+    "supportedVersions":"SQL 2008 and higher versions - fully compatible\r\nSQL 2000 and 2005 (EOL versions) - Partially compatible, does not support all features\r\n.Net 3.0 or higher version\r\nx86 or x64 Windows platforms Local administrative privilege",
+    "accountContributed":[
+        {
+        }
+    ]
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":2,
-         "name":"Distributed - Wintel"
-      },
-      "author":[
-         "Parichaiy Bhardwaj"
-      ],
-      "contributors":[
-         "parichaiy@in.ibm.com"
-      ],
-      "adopters":[
+},
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":3,
+        "name":"Distributed - Unix/Linux"
+    },
+    "author":[
+        "Mahvish Ayesha"
+    ],
+    "contributors":[
+        "mahvishayesha@in.ibm.com"
+    ],
+    "adopters":[
+        "veeresh.bushetti@in.ibm.com"
+    ],
+    "uid":"mah03",
+    "assetTitle":"Mksysb Backup Script",
+    "topAsset":"Y",
+    "assetDetail":"\r\n \r\nAutomate synchronisation of OS & Application data backup and restore to minimise restoration of servers in case of crashes.\r\n\r\nFeatures: \r\n1) Creates installable mksysb file which is helpful to restore entire OS.\r\n2) It maintains 3-7 log files, which is required during audits.\r\n3) If backup fails as a secondary control, with the help of this script , an SCCD ticket will be auto created to respective squads.\r\n4) Maintains 3 files, 2 in TSM server and recent one in local file system.\r\n5) Additionally mail notifications will be sent to the respective focal.\r\n6) The script is AIX version independent and requires L2 skill level.\r\n7) Script is both forward and backward compatible, no dependency over OS version.\r\n",
+    "technology":"",
+    "url":"https:/ /w3-connections.ibm.com/blogs/AutomationChampionship/entry/Mksysb_Backup_Script?lang=en_us",
+    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/Mksysb_Backup_Script?lang=en_us",
+    "benefits":"1) Multiple iteration of back up logs will be available at any given point of time.\r\n2 ) Tivoli monitoring is in place for any back up miss.",
+    "preRequisites":"None",
+    "supportedVersions":"Only AIX servers, ensuring sufficient space for backup on any targeted file system",
+    "accountContributed":[
+        {
+        }
+    ]
 
-      ],
-      "uid":"par02",
-      "assetTitle":"WindowsAdmin_ToolKit  |  ALL_IN_ONE",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nA consolidated toolkit for WINDOWS Administration for Disk Management
-, Alert Management ,User Management and many more\r\n\r\nHere is the consolidated list of tools and ideas
-. You may check each of the link for details.
-http://ibmurl.hursley.ibm.com/ODOM\r\n \r\n1. Fully Automatic Disk expansion - at both ends Windows and
- VMware - At same time\r\n2. GUI to check who deleted the files - auditing events\r\n3. Auto -  'Disk
- Monitoring Configuration' - smart script to set monitoring\r\n4. List application installed on single
- or many servers\r\n5. Script to fix ITM agent issues\r\n6. Way to generate 'missing disk' alerts\r\n7
-. Script to rollover - change TSM Admin password\r\n8. Query events to find who rebooted the server\r
-\n9. List detailed view of local user accounts\r\n10. Keep two folders in sync\r\n11. List details of
- memory dump configuration\r\n12. Check PS remoting and WSMAN settings\r\n13. Configure PS Remoting and
- advance wsman settings\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding/windows_toolkit",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/WindowsAdmin_ToolKit_ALL_IN_ONE
-?lang=en_us",
-      "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
-      "preRequisites":"No special pre-req is needed.",
-      "supportedVersions":"Vmware Vsphere 5.0 and above, Windows Server 2008
- and above.４",
-      "accountContributed":[
-         {
+},
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":3,
-         "name":"Distributed - Unix/Linux"
-      },
-      "author":[
-         "Mahvish Ayesha"
-      ],
-      "contributors":[
-         "mahvishayesha
-@in.ibm.com"
-      ],
-      "adopters":[
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":3,
+        "name":"Distributed - Unix/Linux"
+    },
+    "author":[
+        "DEBASISHA PADHI"
+    ],
+    "contributors":[
+        "debasisha.padhi@in.ibm.com"
+    ],
+    "adopters":[
+        "abhisheksingh79@in.ibm.com",
+        "kalyanig@us.ibm.com"
+    ],
+    "uid":"deb25",
+    "assetTitle":"Admin Tool - Linux",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nMenu driven tool to Automate LINUX Activities to help System Administrators perform day to day Activities, eliminating human errors and saving time.\r\n\r\n",
+    "technology":"",
+    "url":"https://github.ibm.com/GTS-socialcoding/linux_admin_tool",
+    "wikiLink":"https://w3-connections.ibm.com /blogs/AutomationChampionship/entry/Admin_Tool_Linux?lang=en_us",
+    "benefits":"None",
+    "preRequisites":"None",
+    "supportedVersions":"Supported Versions\r\nSpace requirement: 250 MB of free space in any vg .\"\r\n \"Benefit: Time saving, reduction in human errors, standardizing the delivery and quality improvement. \r\nIt will help in resolving issues much easier and quicker. This may even reduce the human errors. ",
+    "accountContributed":[
+        {
+        }
+    ]
 
-      ],
-      "uid":"mah03",
-      "assetTitle":"Mksysb Backup Script",
-      "topAsset":"Y",
-      "assetDetail":"\r\n \r\nAutomate synchronisation of OS & Application data backup and restore to minimise restoration
- of servers in case of crashes.\r\n\r\nFeatures: \r\n1) Creates installable mksysb file which is helpful
- to restore entire OS.\r\n2) It maintains 3-7 log files, which is required during audits.\r\n3) If backup
- fails as a secondary control, with the help of this script, an SCCD ticket will be auto created to respective
- squads.\r\n4) Maintains 3 files, 2 in TSM server and recent one in local file system.\r\n5) Additionally
- mail notifications will be sent to the respective focal.\r\n6) The script is AIX version independent
- and requires L2 skill level.\r\n7) Script is both forward and backward compatible, no dependency over
- OS version.\r\n",
-      "technology":"",
-      "url":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Mksysb_Backup_Script?lang=en_us",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Mksysb_Backup_Script?lang=en_us",
-      "benefits":"1) Multiple iteration of back up logs will be available
- at any given point of time.\r\n2) Tivoli monitoring is in place for any back up miss.",
-      "preRequisites":"None",
-      "supportedVersions":"Only AIX servers, ensuring sufficient space for backup on any targeted file
- system",
-      "accountContributed":[
-         {
+},
+{
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":4,
-         "name":"Distributed Middleware"
-      },
-      "author":[
-         "Rajanikanth Teppala"
-      ],
-      "contributors":[
-         "rkteppala
-@in.ibm.com"
-      ],
-      "adopters":[
-         "nagshukl@in.ibm.com"
-      ],
-      "uid":"rkt19",
-      "assetTitle":"Service Integration Bus
- queue depth (WebSphere JMS queue Monitoring Script)",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nAutomatic
- monitoring of Service Integration Bus queue depth (WebSphere JMS queue Monitoring Script).\r\n\r\nImpact
- Description :: Monitoring the number of messages in the jms queues from the script.\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding/websphere_jms_queue_monitor",
-      "wikiLink":"https://w3-connections
-.ibm.com/blogs/AutomationChampionship/entry/Automatic_monitoring_of_Service_Integration_Bus_queue_depth_WebSphere_JMS_queue_Monitoring_Script
-?lang=en_us",
-      "benefits":"a) A perfect validation can be done without logging into WebSphere Console.
-\r\nb) We can identify problem prior to the issue and can avoid big outage and big impact.\r\nc) Customer
- don't need to buy any other monitoring tools to monitor WebSphere JMS Queues.\r\nd) This monitoring
- script will reduce manual efforts, provide accuracy and time saving.",
-      "preRequisites":"Basic knowledge
- of shell scripting and WebSphere Application Server (WAS).
-Need to have server access, including permissions to save and execute the script file.",
-      "supportedVersions":"None",
-      "accountContributed":[
-         {
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":4,
+        "name":"Distributed Middleware"
+    },
+    "author":[
+        "Rajanikanth Teppala"
+    ],
+    "contributors":[
+        "rkteppala@in.ibm.com"
+    ],
+    "adopters":[
+    ],
+    "uid":"rkt19",
+    "assetTitle":"Service Integration Bus queue depth (WebSphere JMS queue Monitoring Script )",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nAutomatic monitoring of Service Integration Bus queue depth (WebSphere JMS queue Monitoring Script).\r\n\r\nImpact Description :: Monitoring the number of messages in the jms queues from the script.\r\n",
+    "technology":"",
+    "url":"https://github.ibm.com/GTS-socialcoding /websphere_jms_queue_monitor",
+    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship /entry/Automatic_monitoring_of_Service_Integration_Bus_queue_depth_WebSphere_JMS_queue_Monitoring_Script ?lang=en_us",
+    "benefits":"a) A perfect validation can be done without logging into WebSphere Console. \r\nb) We can identify problem prior to the issue and can avoid big outage and big impact.\r\nc) Customer don't need to buy any other monitoring tools to monitor WebSphere JMS Queues.\r\nd) This monitoring script will reduce manual efforts, provide accuracy and time saving.",
+    "preRequisites":"Basic knowledge of shell scripting and WebSphere Application Server (WAS). Need to have server access, including permissions to save and execute the script file.",
+    "supportedVersions":"None",
+    "accountContributed":[
+        {
+        }
+    ]
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":1,
-         "name":"Distributed Database"
-      },
-      "author":[
-         "Pallavi Shrotri"
-      ],
-      "contributors":[
-         "pashrotr@in.ibm
-.com"
-      ],
-      "adopters":[
+},
 
-      ],
-      "uid":"pas150",
-      "assetTitle":"MSSQL: Automated Script to collect Garbage SQL Data
- from Disk drives",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nTool to automate collection of garbage SQL related
- Data along with the details of space released \r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding
-/mssql_garbage_sqldata_collector",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/MSSQL_Automated_Script_to_collect_Garbage_SQL_Data_from_Disk_drives?lang=en_us",
-      "benefits":"1
-. Saved client cost in terms of not taking extra capacity and space on disk drives from client and performing
- the housekeeping within the existing capacity.\r\n\r\n2. Application outage issues can be avoided. ",
-      "preRequisites":"No Jump or IEM server needed, Script can be directly executed on the impacted servers
- in production.",
-      "supportedVersions":"Supported Versions\r\nSQL 2005 and higher versions\r\nx86 or x64
- Windows platforms\r\nSQL administrative privilege\r\nSupported Versions\r\nSQL 2005 and higher versions
-\r\nx86 or x64 Windows platforms\r\nSQL administrative privilege",
-      "accountContributed":[
-         {
+{
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":2,
-         "name":"Hybrid Service Management (HSM)"
-      },
-      "serviceLineComponent":{
-         "id":5,
-         "name":"Integrated
- Service Management"
-      },
-      "author":[
-         "Sreekumar C K"
-      ],
-      "contributors":[
-         "cksreekumar@in.ibm.com"
-      ],
-      "adopters":[
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":4,
+        "name":"Distributed Middleware"
+    },
+    "author":[
+        "Preeti Pujari"
+    ],
+    "contributors":[
+        "prepujar@in.ibm .com"
+    ],
+    "adopters":[
+    ],
+    "uid":"pre12",
+    "assetTitle":"Health Check Automation for WebSphere Application Server (ITCS104 standards)",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nAutomating health check on Websphere servers to ensure adhereance to ITCS104 standards\r\n\r\nImpact Description: Compliant HealthCheck scans for Audit readiness. \r\n\r\ni) Time Saving: Earlier it was more of manually entering the values for each policies. Now the report itself comes in tabular format in approx 10 minutes.\r\n ii) Cost Saving : Health check reports are provided to security team within the timeline which improves the quality of work.\r\n\r\niii) Revenue Generating: None",
+    "technology":"",
+    "url":"https://github.ibm .com/GTS-socialcoding/WAS_healthcheck_automation",
+    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship /entry/Health_Check_Automation_for_WebSphere_Application_Server_ITCS104_standards?lang=en_us",
+    "benefits":"None",
+    "preRequisites":"Script needs to be copied on the server and should be given proper executable permission",
+    "supportedVersions":"Script is executable only on AIX and Linux machine.",
+    "accountContributed":[
+        {
+        }
+    ]
 
-      ],
-      "uid":"cks20",
-      "assetTitle":"Change Compliance Review Tool (CCRT)",
-      "topAsset":"Y",
-      "assetDetail":"
-\r\n\r\nUsing Microsoft Excel functions and VBA to increase the efficiency of change ticket review .
-\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding/change_compliance_review_tool",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/Change_Compliance_Review_Tool_CCRT
-?lang=en_us",
-      "benefits":"Reduces instance of non-compliance through consistent & standardized review
- and follow-up \r\nReduces the possibilities of human errors \r\nReduces time spent on non-compliant
- follow-ups \r\nReduces Rework \r\nIncreases the efficiency of the compliance review \r\nIncreases the
- percentage of compliant changes \r\nImproved understanding of compliance trend \r\nAbility to review
- changes offline",
-      "preRequisites":"Microsoft Excel (Preferably Version 2010 and above)",
-      "supportedVersions":"1 GHz processor\r\n2GB RAM\r\n3 GB of available disk space; better to have some extra space for temp
- files\r\nScreen resolution of a minimum 1280 x 800\r\nWindows 7 SP1 or above operating system\r\nAny
- Hardware configuration and versions of Windows & Macintosh OS supporting Microsoft Excel\"\r\n\"Benefit
-:
-Time saving, reduction in human errors, standardizing the delivery and quality improvement. \r\nIt will
- help in resolving issues much easier and quicker. This may even reduce the human errors. ",
-      "accountContributed":[
-         {
+},
+{
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":2,
-         "name":"Distributed
- - Wintel"
-      },
-      "author":[
-         "Magesh Babu"
-      ],
-      "contributors":[
-         "Mageshbabu.m@in.ibm.com"
-      ],
-      "adopters":[
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":2,
+        "name":"Distributed - Wintel"
+    },
+    "author":[
+        "Parichaiy Bhardwaj"
+    ],
+    "contributors":[
+        "parichaiy@in.ibm.com"
+    ],
+    "adopters":[
+        "sarathtd @in.ibm.com"
+    ],
+    "uid":"par02",
+    "assetTitle":"WindowsAdmin_ToolKit | ALL_IN_ONE",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nA consolidated toolkit for WINDOWS Administration for Disk Management, Alert Management ,User Management and many more\r\n\r\nHere is the consolidated list of tools and ideas. You may check each of the link for details. http://ibmurl.hursley.ibm.com/ODOM\r\n \r\n1. Fully Automatic Disk expansion - at both ends Windows and VMware - At same time\r\n2. GUI to check who deleted the files - auditing events\r\n3. Auto - 'Disk Monitoring Configuration' - smart script to set monitoring\r\n4. List application installed on single or many servers\r\n5. Script to fix ITM agent issues\r\n6. Way to generate 'missing disk' alerts\r\n7 . Script to rollover - change TSM Admin password\r\n8. Query events to find who rebooted the server\r \n9. List detailed view of local user accounts\r\n10. Keep two folders in sync\r\n11. List details of memory dump configuration\r\n12. Check PS remoting and WSMAN settings\r\n13. Configure PS Remoting and advance wsman settings\r\n",
+    "technology":"",
+    "url":"https://github.ibm.com/GTS-socialcoding/windows_toolkit",
+    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship/entry/WindowsAdmin_ToolKit_ALL_IN_ONE ?lang=en_us",
+    "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
+    "preRequisites":"No special pre-req is needed.",
+    "supportedVersions":"Vmware Vsphere 5.0 and above, Windows Server 2008 and above.４",
+    "accountContributed":[
+        {
+        }
+    ]
 
-      ],
-      "uid":"Mag13",
-      "assetTitle":"Microsoft Cluster Dashboard across Domain",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nProviding
- a status dashboard of details of resources such as groups, devices etc in a Microsoft cluster environment
- in a a user friendly HTML format.\r\n",
-      "technology":"",
-      "url":"https://github.ibm.com/GTS-socialcoding
-/microsoft_cluster_healthcheck",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Microsoft_Cluster_Dashboard_across_Domain?lang=en_us",
-      "benefits":"The innovation is for Light
- weight, cost effective (almost negligible cost) monitoring cum health check system which suits small
-, medium and large enterprise.",
-      "preRequisites":"Following components are required on central server
- (ex : Jump server)** to run this tool.\r\n• .NetFramework 3.5\r\n• Powershell 2.0 or higher\r\n• Domain
- Admin or equivalent credentials\r\n• Clustering tool feature to be installed in the failover clustering
-\r\n** Annotation : Per domain one jump server is required. Tool gathers only its domain related cluster
- details. \r\nEx : If you run the tool on the root domain it will not gather information of the clusters
- which belong to other child domain/s",
-      "supportedVersions":"https://ibm.box.com/s/fvhs40wl4w5aucw14cua32wufaj54thb",
-      "accountContributed":[
-         {
+},
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":4,
-         "name":"Distributed Middleware"
-      },
-      "author":[
-         "Preeti Pujari"
-      ],
-      "contributors":[
-         "prepujar@in.ibm
-.com"
-      ],
-      "adopters":[
+{
 
-      ],
-      "uid":"pre12",
-      "assetTitle":"Health Check Automation for WebSphere Application Server
- (ITCS104 standards)",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nAutomating health check on Websphere servers
- to ensure adhereance to ITCS104 standards\r\n\r\nImpact Description: Compliant HealthCheck scans for
- Audit readiness. \r\n\r\ni) Time  Saving: Earlier it was more of manually entering the values for each
- policies. Now the report itself comes in tabular format in approx 10 minutes.\r\n
-ii) Cost Saving : Health check reports are provided to security team within the timeline which improves
- the quality of work.\r\n\r\niii) Revenue Generating: None",
-      "technology":"",
-      "url":"https://github.ibm
-.com/GTS-socialcoding/WAS_healthcheck_automation",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Health_Check_Automation_for_WebSphere_Application_Server_ITCS104_standards?lang=en_us",
-      "benefits":"None",
-      "preRequisites":"Script needs to be copied on the server and should be given proper executable
- permission",
-      "supportedVersions":"Script is executable only on AIX and Linux machine.",
-      "accountContributed":[
-         {
+    "serviceLine":{
+        "id":1,
+        "name":"Compute Services"
+    },
+    "serviceLineComponent":{
+        "id":1,
+        "name":"Distributed Database"
+    },
+    "author":[
+        "Pallavi Shrotri"
+    ],
+    "contributors":[
+        "pashrotr@in.ibm .com"
+    ],
+    "adopters":[
+    ],
+    "uid":"pas150",
+    "assetTitle":"MSSQL: Automated Script to collect Garbage SQL Data from Disk drives",
+    "topAsset":"Y",
+    "assetDetail":"\r\n\r\nTool to automate collection of garbage SQL related Data along with the details of space released \r\n",
+    "technology":"",
+    "url":"https://github.ibm.com/GTS-socialcoding /mssql_garbage_sqldata_collector",
+    "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship /entry/MSSQL_Automated_Script_to_collect_Garbage_SQL_Data_from_Disk_drives?lang=en_us",
+    "benefits":"1 . Saved client cost in terms of not taking extra capacity and space on disk drives from client and performing the housekeeping within the existing capacity.\r\n\r\n2. Application outage issues can be avoided. ",
+    "preRequisites":"No Jump or IEM server needed, Script can be directly executed on the impacted servers in production.",
+    "supportedVersions":"Supported Versions\r\nSQL 2005 and higher versions\r\nx86 or x64 Windows platforms\r\nSQL administrative privilege\r\nSupported Versions\r\nSQL 2005 and higher versions \r\nx86 or x64 Windows platforms\r\nSQL administrative privilege",
+    "accountContributed":[
+        {
+        }
+    ]
 
-         }
-      ]
-   },
-   {
-      "serviceLine":{
-         "id":1,
-         "name":"Compute Services"
-      },
-      "serviceLineComponent":{
-         "id":3,
-         "name":"Distributed
- - Unix/Linux"
-      },
-      "author":[
-         "DEBASISHA PADHI"
-      ],
-      "contributors":[
-         "debasisha.padhi@in.ibm.com"
-      ],
-      "adopters":[
+},
 
-      ],
-      "uid":"deb28",
-      "assetTitle":"Admin Tool - AIX",
-      "topAsset":"Y",
-      "assetDetail":"\r\n\r\nMenu driven tool
- to Automate AIX Activities to help System Administrators perform day to day Activities, eliminating
- human errors and saving time.\r\n",
-      "technology":"",
-      "url":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Admin_Tool_AIX1?lang=en_us",
-      "wikiLink":"https://w3-connections.ibm.com/blogs/AutomationChampionship
-/entry/Admin_Tool_AIX1?lang=en_us",
-      "benefits":"None",
-      "preRequisites":"None",
-      "supportedVersions":"Supported
- Versions\r\nSpace requirement: 250 MB of free space in any vg .",
-      "accountContributed":[
-         {
-
-         }
-      ]
-   }
 ]
