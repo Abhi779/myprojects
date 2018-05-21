@@ -7,24 +7,6 @@
     "serviceLineComponent":{
         "id":1,
         "name":"Distributed Database"
-    },
-    "author":[
-        "Diya Ganguly"
-    ],
-    
-    "uid":"pas01",
-    "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs",
-    "topAsset":"Y",
-    "assetDetail":"Toolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT Multi-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster \r\nCheck User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups \r\nCheck Database consistency \r\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical Operational Manual \r\nExport User accounts \r\nCollect databases from multiple servers \r\nCapacity and Performance Services \r\nCheck database indexes \r\nMissing index report \r\nDeadlock report \r \nCheck SQL server buffer pool \r\nCheck SQL server memory objects \r\nCheck Waiting tasks \r\nCheck Database I/O parameters \r\nCheck SQL server sessions \r\nCheck Database connections\r\n",
-    "technology":"",
-    "url":"https//github.ibm.com/GTS-socialcoding/mssql_dba_automation",
-    "wikiLink":"https://w3-connections .ibm.com/blogs/AutomationChampionship/entry/MSSQL_Automation_SingleTool_which_perform_all_SQL_DBAs_tasks_with_least_manual_Intervention ?lang=en_us",
-    "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
-    "preRequisites":"Jump server/test Server where the tool kit can be placed for use",
-    "supportedVersions":"SQL 2008 and higher versions - fully compatible\r\nSQL 2000 and 2005 (EOL versions) - Partially compatible, does not support all features\r\n.Net 3.0 or higher version\r\nx86 or x64 Windows platforms Local administrative privilege",
-    "accountContributed":[
-        {
-        }
-    ]
+    }   
 }
 ]
