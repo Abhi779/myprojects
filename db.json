@@ -8,8 +8,7 @@
       },
       "serviceLineComponent":{
          "id":1,
-         "name":"Distributed
-    Database"
+         "name":"Distributed Database"
       },
       "author":[
          "Abhishek Singh"
@@ -18,31 +17,18 @@
          "abhishekSingh79@imail.com"
       ],
       "adopters":[
-         "rdharkar
-   @us.ibm.com"
+         "rdharkar@imail.com"
       ],
       "uid":"pas01",
       "assetTitle":"MSSQL - Automation- SingleTool which perform all SQL DBAs ",
       "topAsset":"Y",
-      "assetDetail":"\r\n\r\nToolkit- with over 25 automated processes - to help DBAs reduce
-    the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed
-    by SCOT \r\n---------------------------------\r\nMulti-server HC \r\nHC Auto Remediation\r\nList of
-    failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster
-    \r\nCheck User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups
-   \r\nCheck Database consistency  \r\nLocal SQL services \r\nSQL Server Dashboard \r\nCreate Technical
-    Operational Manual \r\nExport User accounts \r\nCollect databases from multiple servers \r\nCapacity
-    and Performance Services \r\nCheck database indexes \r\nMissing index report \r\nDeadlock report \r
-   \nCheck SQL server buffer pool \r\nCheck SQL server memory objects \r\nCheck Waiting tasks \r\nCheck
-    Database I/O parameters \r\nCheck SQL server sessions \r\nCheck Database connections\r\n",
+      "assetDetail":"Toolkit- with over 25 automated processes - to help DBAs reduce the manual effort and possibility of human error during SQL Administration\r\n\r\nKey Activities performed by SCOT. Multi-server HC \r\nHC Auto Remediation\r\nList of failed logins \r\nCollect version and license information \r\nAvailability Services \r\nCheck SQL Cluster Check User accounts \r\nCheck Orphan Users \r\nBackup and Recovery services \r\nCheck Database backups.",
       "technology":"",
       "url":"https://github.com",
       "wikiLink":"https://w3schools.com",
       "benefits":"Time saving \r\nHuman Error Reduction\r\nQuality of Delivery",
       "preRequisites":"Jump server/test Server where the tool kit can be placed for use",
-      "supportedVersions":"SQL 2008 and
-    higher versions - fully compatible\r\nSQL 2000 and 2005 (EOL versions) - Partially compatible, does
-    not support all features\r\n.Net 3.0 or higher version\r\nx86 or x64 Windows platforms
-   Local administrative privilege",
+      "supportedVersions":"SQL 2008 and higher versions - fully compatible\r\nSQL 2000 and 2005 (EOL versions) - Partially compatible, does not support all features\r\n.Net 3.0 or higher version\r\nx86 or x64 Windows platforms Local administrative privilege",
       "accountContributed":[
          {
 
@@ -68,25 +54,15 @@
          "baba.bush@imail.com"
       ],
       "uid":"mah03",
-      "assetTitle":"Mksysb
-    Backup Script",
+      "assetTitle":"Mksysb Backup Script",
       "topAsset":"Y",
-      "assetDetail":"Automate synchronisation of OS & Application data
-    backup and restore to minimise restoration of servers in case of crashes.\r\n\r\nFeatures: \r\n1) Creates
-    installable mksysb file which is helpful to restore entire OS.\r\n2) It maintains 3-7 log files, which
-    is required during audits.\r\n3) If backup fails as a secondary control, with the help of this script
-   , an SCCD ticket will be auto created to respective squads.\r\n4) Maintains 3 files, 2 in TSM server
-    and recent one in local file system.\r\n5) Additionally mail notifications will be sent to the respective
-    focal.\r\n6) The script is AIX version independent and requires L2 skill level.\r\n7) Script is both
-    forward and backward compatible, no dependency over OS version.\r\n",
+      "assetDetail":"Automate synchronisation of OS & Application data backup and restore to minimise restoration of servers in case of crashes.\r\n\r\nFeatures: \r\n1) Creates installable mksysb file which is helpful to restore entire OS.\r\n2) It maintains 3-7 log files, which is required during audits.\r\n3) If backup fails as a secondary control, with the help of this script, an SCCD ticket will be auto created to respective squads.\r\n4) Maintains 3 files, 2 in TSM server and recent one in local file system.\r\n5) Additionally mail notifications will be sent to the respective focal.\r\n6) The script is AIX version independent and requires L2 skill level.\r\n7) Script is both forward and backward compatible, no dependency over OS version.\r\n",
       "technology":"",
       "url":"https:abcd.com",
       "wikiLink":"https://abc.com",
-      "benefits":"1) Multiple iteration of back up logs will be available at any given point of time.\r\n2
-   ) Tivoli monitoring is in place for any back up miss.",
+      "benefits":"1) Multiple iteration of back up logs will be available at any given point of time.\r\n2 ) Tivoli monitoring is in place for any back up miss.",
       "preRequisites":"None",
-      "supportedVersions":"Only
-    AIX servers, ensuring sufficient space for backup on any targeted file system",
+      "supportedVersions":"Only AIX servers, ensuring sufficient space for backup on any targeted file system",
       "accountContributed":[
          {
 
