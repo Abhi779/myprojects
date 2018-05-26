@@ -1,4 +1,6 @@
-"automationDetails": [
+
+  {
+  "automationDetails": [
   {
       "serviceLine":{
          "id":1,
@@ -92,3 +94,4 @@
       ]
    }
   ]
+}
